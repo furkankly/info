@@ -1,0 +1,16 @@
+{
+	"name": "info",
+	"version": "1.0.0",
+	"description": "Info of my system",
+	"main": "index.mjs",
+	"scripts": {
+		"info": "node index.mjs",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "furkankly",
+	"license": "ISC",
+	"dependencies": {
+		"chalk": "^4.1.2",
+		"date-fns": "^2.23.0"
+	}
+}
